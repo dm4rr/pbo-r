@@ -16,7 +16,7 @@ import java.util.Scanner;
  *
  * @author Lab STMIK
  */
-public class BarangUAS {
+public class baranguas {
     
 
     private static Connection conn = koneksi.getConnection();
